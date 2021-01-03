@@ -14,4 +14,3 @@ class TestCalculatorLibrary:
 
     def test_divide(self):
         assert 10 == calculator.divide(100, 10)
-
